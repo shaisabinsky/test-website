@@ -1,0 +1,41 @@
+h1 {
+    font-size: 50px;
+    color: blue;
+    background: black;
+    width: 1400px;
+
+   /* margin: 100px 200px ; */
+
+    padding: 100px ;
+    border: 20px solid blue ;
+    border-radius: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    color: blue;
+    background:black;
+    width: 150px;
+
+    text-align: center;
+    margin-right: 50px;
+}
+
+p {
+    font-size: 25px ;
+    text-align: left;
+    color: white;
+}
+
+a {
+    color: white ;
+}
+
+body{
+    /*background:#4f5d75 ; */
+     background-image: url( https://steamuserimages-a.akamaihd.net/ugc/938332359873872670/5346D2B205FC5ED72F061915731C8D0B6D2E8B30/) 
+}
+
+
+
+/*This allows stuff to turn on or off with the star and line */
