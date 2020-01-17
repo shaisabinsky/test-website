@@ -1,0 +1,31 @@
+h1 {
+    font-size: 50px;
+    color: black;
+    background: grey;
+    padding: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+    background: grey;
+    width: 300 px;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+    background: grey;
+}
+
+.bordered {
+    border: white 20px solid;
+    border-radius: 10px;
+    margin: 20px;
+    color: black;
+    
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/1667616.jpg) ;
+}
